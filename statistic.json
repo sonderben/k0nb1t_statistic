@@ -1,0 +1,22 @@
+{
+  "providers": {
+    "count":31,
+    "lastUpdate": 17182892728
+  },
+  "validators":{
+    "count":31,
+    "lastUpdate": 17182892728
+  },
+  "developers": {
+    "count":2,
+    "lastUpdate": 17182892728
+  },
+  "vocabulary": {
+    "count":15,
+    "lastUpdate": 17182892728
+  },
+  "voc_defined": {
+    "count":12,
+    "lastUpdate": 17182892728
+  }
+}
